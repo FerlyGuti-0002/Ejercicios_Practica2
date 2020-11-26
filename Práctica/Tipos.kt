@@ -19,10 +19,21 @@
     println("$x $y $z $esTrue $otroTrue")
 }*/
 
+/*Ejemplo con tipo de dato Char
 fun main()
+{
+   var numeroFavorito: Char = '4'
+   var letraFavorita: Char = 'F' 
+   var signoFavorito: Char = '#'
+   println("$numeroFavorito $letraFavorita $signoFavorito")
+   
+}*/
+
+/*fun main()
 {
     val string = "string con una línea nueva" 
     val rawString = """ raw string es útil para cadenas con muchas líneas """
     println("$string $rawString")
-}
+}*/
 
+/*
