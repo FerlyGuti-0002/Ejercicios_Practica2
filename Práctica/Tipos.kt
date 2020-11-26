@@ -21,6 +21,8 @@
 
 fun main()
 {
-    
+    val string = "string con una línea nueva" 
+    val rawString = """ raw string es útil para cadenas con muchas líneas """
+    println("$string $rawString")
 }
 
