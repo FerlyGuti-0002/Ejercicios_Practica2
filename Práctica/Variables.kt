@@ -1,16 +1,16 @@
-/*//Captura1
+//Captura1
 fun main()
 {
     var nombre = "Ferly"
     println(nombre)
-}*/
+}
 
-/*//Captura2
+//Captura2
  fun main()
  {
     val apellido = "Quiroz Gutiérrez" 
     println(apellido)
- }*/
+ }
 
 //Captura3
  fun main()

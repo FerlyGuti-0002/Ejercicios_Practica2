@@ -1,10 +1,10 @@
-/*import java.util.Date;
+import java.util.Date;
 fun main()
 {
     val fecha = Date()
     val hoy = if (fecha.year == 2019) true else false
-    println("La fecha de hoy es: $hoy")
-}*/
+    println(hoy)
+}
 
 /*fun main()
 {
@@ -15,7 +15,7 @@ fun main()
     } else { 
         println("Aun eres menor") 
     }
-}*/
+}
 
 
 //Ingresado por teclado
@@ -28,5 +28,5 @@ fun main()
     } else {
         println("Eres menor de edad")
     }
-}
+}*/
 

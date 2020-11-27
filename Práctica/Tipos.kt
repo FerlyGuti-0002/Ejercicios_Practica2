@@ -1,4 +1,4 @@
-/*fun main()
+fun main()
 {
     val int = 123
     val long = 123456L
@@ -7,7 +7,7 @@
     val hexadecimal = 0xAB
     val binary = 0b01010101
     println("Esta es una variable entera $int Esta es una variable long $long Este es un double $double Esta es una variable de tipo float $float Esta es un valor hexadecimal $hexadecimal Este es un valor binario $binary")
-}*/
+}
 
 //Ejemplo conversión Int a float
 fun main()
@@ -23,7 +23,7 @@ fun main()
     
 }
 
-/*fun main()
+fun main()
 {
     val x = 1 
     val y = 2 
@@ -31,9 +31,9 @@ fun main()
     val esTrue = x < y && x < z 
     val otroTrue = x == y || y == z
     println("Val x=$x Val y=$y Val z=$z Val estrue=$esTrue Val otroTrue=$otroTrue")
-}*/
+}
 
-/*//Ejemplo con tipo de dato Char
+//Ejemplo con tipo de dato Char
 fun main()
 {
    var numeroFavorito: Char = '4'
@@ -41,12 +41,12 @@ fun main()
    var signoFavorito: Char = '#'
    println("$numeroFavorito $letraFavorita $signoFavorito")
    
-}*/
+}
 
-/*fun main()
+fun main()
 {
     val string = "string con una línea nueva" 
     val rawString = """ raw string es útil para cadenas con muchas líneas """
     println("$string $rawString")
-}*/
+}
 
