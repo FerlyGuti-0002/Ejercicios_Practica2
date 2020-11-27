@@ -9,6 +9,20 @@
     println("Esta es una variable entera $int Esta es una variable long $long Este es un double $double Esta es una variable de tipo float $float Esta es un valor hexadecimal $hexadecimal Este es un valor binario $binary")
 }*/
 
+//Ejemplo conversión Int a float
+fun main()
+{
+    var ent = 123
+    var flotant = ent.toFloat()
+    println("\nFlotante = $flotant")
+
+    //Ejemplo conversión Int a float
+    var flotant = 12.34
+    var ent = flotant.toInt();
+    println("\nEntero = $ent")
+    
+}
+
 /*fun main()
 {
     val x = 1 
@@ -16,10 +30,10 @@
     val z = 2 
     val esTrue = x < y && x < z 
     val otroTrue = x == y || y == z
-    println("$x $y $z $esTrue $otroTrue")
+    println("Val x=$x Val y=$y Val z=$z Val estrue=$esTrue Val otroTrue=$otroTrue")
 }*/
 
-/*Ejemplo con tipo de dato Char
+/*//Ejemplo con tipo de dato Char
 fun main()
 {
    var numeroFavorito: Char = '4'
@@ -36,4 +50,3 @@ fun main()
     println("$string $rawString")
 }*/
 
-/*
