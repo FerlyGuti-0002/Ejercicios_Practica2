@@ -1,19 +1,19 @@
-/*fun main()
+fun main()
 {
     while (true) { 
         println("Esto se imprimirá por un largo tiempo!") 
     }
 
-}*/
+}
 
-fun main()
+/*fun main()
 {
     val array = arrayOf("a", "b", "c") 
     for (i in array.indices) { 
         println(array[i]) } 
     for (i in 6 downTo 0 step 2) { 
         println(i) }
-}
+}*/
 
 
 //Ejemplo Do While
